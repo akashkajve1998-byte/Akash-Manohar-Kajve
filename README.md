@@ -96,6 +96,6 @@ Currently expanding my expertise in DevOps, Cloud Computing, and Automation tech
 I enjoy learning new technologies and automating repetitive tasks.
 
 #create command
----
+'''
 mkdir sahil
----
+'''
