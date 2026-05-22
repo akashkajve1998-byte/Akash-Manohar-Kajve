@@ -88,7 +88,7 @@ Currently expanding my expertise in DevOps, Cloud Computing, and Automation tech
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
+- LinkedIn: www.linkedin.com/in/akashkajve
 
 ---
 
