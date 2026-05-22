@@ -1,1 +1,8 @@
+#Introduction to Ansible
+● Ansible is an automation tool used for configuration management, application deployment, and task automation.
+● In simple terms, it helps us manage multiple servers at the same time without logging into each server manually.
+● For example, if I want to install software on 10 servers, I can write an Ansible playbook and run one command, and it will install the software on all servers automatically.
+● Ansible is agentless, which means we don’t need to install any extra software on target machines; it works using SSH.
+● It uses YAML language to write playbooks, which is easy to read and understand.
+
 
